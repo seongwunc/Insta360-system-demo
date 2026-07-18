@@ -26,16 +26,6 @@ npm run build
 - `.github/workflows/deploy.yml`：GitHub Pages 自动部署
 - `README.md`：项目说明
 
-## 参考文件
-
-- `Insta360_DJI_market_research_part1.docx`
-- `Insta360_opening_report_part2.docx`
-- `insta360_wireframe_sample.png`
-- `insta360_wireframe_sample_cn_v2.png`
-- `insta360_wireframe_sample_cn_v3.png`
-- `insta360_wireframe_ai_readable_v4.png`
-- `font_test.docx`
-
 ## 说明
 
 - `dist/` 为构建产物，不需要手动维护
