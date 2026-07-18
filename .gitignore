@@ -2,3 +2,9 @@ node_modules/
 dist/
 .pnpm-store/
 *.log
+node_modules/
+dist/
+.pnpm-store/
+*.docx
+*.png
+*.log
