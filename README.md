@@ -29,4 +29,3 @@ npm run build
 ## 说明
 
 - `dist/` 为构建产物，不需要手动维护
-- `node_modules/` 为本地依赖，不需要提交到仓库
